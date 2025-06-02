@@ -27,6 +27,8 @@ Welcome to my GitHub! I'm a passionate and curious software engineer with a stro
   - Built a firmware update system for **10+ ASIC miner models**  
   - Enhanced device reliability by **40%**
 
+---
+### Connect with Me
 
 <div>
   <a href="https://linkedin.com/in/abhishekpatidar2311">
