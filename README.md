@@ -17,12 +17,12 @@ Welcome to my GitHub! I'm a passionate and curious software engineer with a stro
 
 ### 🛠️ Internship Experience
 
-- **Google Summer of Code 2023 (SymPy - Python)**  
+- **Google Summer of Code 2023 - SymPy**  
   - Selected in the top **2%** (967 out of 43,765) globally  
   - Optimized polynomial GCD computation using sparse algorithms  
   - Improved runtime performance by up to **97%**
 
-- **Summer of Bitcoin 2024 (Firmware Engineering)**  
+- **Summer of Bitcoin 2024 - PyASIC**
   - Selected in the top **1%** (50 out of 5,000) globally  
   - Built a firmware update system for **10+ ASIC miner models**  
   - Enhanced device reliability by **40%**
